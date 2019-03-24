@@ -8,8 +8,6 @@ import java.util.NoSuchElementException;
  *
  * Memory usage: O(n) where n is the number of the elements in the queue
  *
- * @author Feiyue Tao 44734046
- *
  * @param <T> The type of element held in the data structure.
  */
 public class TraversableQueue<T> implements IterableQueue<T> {
