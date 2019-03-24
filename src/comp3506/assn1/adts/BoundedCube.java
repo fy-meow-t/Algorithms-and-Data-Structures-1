@@ -12,8 +12,6 @@ import java.util.Iterator;
  * Memory usage: O(n)
  * n is the total number of the elements in the cube (i.e. aircrafts in the airspace)
  *
- * @author Feiyue Tao 44734046
- *
  * @param <T> The type of element held in the data structure.
  */
 public class BoundedCube<T> implements Cube<T> {
